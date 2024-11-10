@@ -2,122 +2,63 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Beijie Liu
 
-[Link to another page](./another-page.html).
+**B.S.E. in Computer Science | University of Michigan**  
+**Email:** [kekeliu [at] umich [dot] edu](mailto:kekeliu@umich.edu)
 
-There should be whitespace between paragraphs.
+**GitHub:** [https://github.com/keke1022](https://github.com/keke1022)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## Introduction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a senior student at the University of Michigan, pursuing a **B.S.E. in Computer Science**. I am now an Research Assistant in OrderLab and CHAI Lab, and also an IA in Umich EECS 445 (Machine Learning).
 
-## Header 2
+I transfered from Shanghai Jiao Tong University (SJTU) on my third year (2023), where I majored ECE in SJTU. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+My academic focus is on **Machine Learning** and **Operating Systems**. 
 
-### Header 3
+<!-- Currently, I am working on **ML-Daikon**, a tool designed to detect silent issues in machine learning training pipelines, by checking low-level invariants and enhancing system reliability.  -->
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+I am passionate about merging knowledge with  **Machine Learning** and **Operating Systems**. 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+## Research Interests
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- Machine Learning
+- Operating Systems
 
-##### Header 5
+<!-- --- -->
+<!-- 
+## Selected Projects
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### **ML-Daikon**  
+*Research Project | University of Michigan | May 2024 - Present*  
+ML-Daikon is a tool designed to detect silent issues in machine learning training pipelines. By inferring low-level invariants, it helps identify bugs that may otherwise go unnoticed. The project incorporates a static analyzer and dynamic analysis for enhanced PyTorch debugging. I successfully identified significant bugs, such as **PyTorch issue 84803**, proving the tool's real-world effectiveness.
 
-###### Header 6
+### **AI Model for Speech Annotation**  
+*Research Project | University of Michigan | May 2024 - Present*  
+This project involves using machine learning to analyze speech patterns and help clinicians identify diseases. I led a team to predict speech disfluencies using BERT for advanced language recognition, incorporating both wav2vec2 and ASR+text embeddings. The project also involved data sourcing and cleaning from AphasiaBank, resulting in a higher-quality dataset for model training.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### **Thread and Pager for Systems**  
+*Course Project | University of Michigan | Apr 2024*  
+I designed a custom thread scheduling system and a pager system for virtual memory management. The project aimed to improve memory handling by dynamically loading memory pages from disk and managing page faults, ensuring system efficiency in multi-tasking environments.
 
-### There's a horizontal rule below this.
+### **Compiler Construction (LLVM and Oat)**  
+*Course Project | University of Michigan | Mar 2024*  
+This project focused on building a non-optimizing compiler that translates LLVM Intermediate Representation (IR) to X86lite assembly. I implemented features like function calls, memory management, and type safety to ensure the compiler operated according to standard conventions.
 
-* * *
+### **Online Games Based on Elm Programming**  
+*Course Project | Shanghai Jiao Tong University | May 2022 - Aug 2022*  
+I led the design and development of video games using Elm. The games, including a Brick game and an open-world shooting game, utilized custom artwork and innovative gameplay elements. I also integrated JavaScript to extend the functionality of the games, demonstrating my versatility in multiple programming languages. -->
 
-### Here is an unordered list:
+---
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Skills & Technologies
 
-### And an ordered list:
+- **Programming Languages**: Python, C, C++, OCaml
+- **Operating Systems**: Linux
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+---
