@@ -33,9 +33,9 @@ I am passionate about merging knowledge with  **Machine Learning** and **Operati
 
 ## Selected Projects
 
-### **Training with Confidence: Catching Silent DL Training Bugs with Automated Proactive Checks**
+### - Training with Confidence: Catching Silent DL Training Bugs with Automated Proactive Checks
 
-Supervised by **Prof Ryan** Huang in **OrderLab**.
+> Supervised by **Prof Ryan** Huang in **OrderLab**.
 
 This is a tool designed to detect silent issues in machine learning training pipelines. By inferring low-level invariants, it helps identify bugs that may otherwise go unnoticed.
 
@@ -43,9 +43,9 @@ Sample bugs: [PyTorch Issues 84803](https://github.com/pytorch/pytorch/issues/84
 
 A workaround is to transfer the tensor to the CPU before moving it to another GPU. The issue was confirmed across different PyTorch versions.
 
-### **AI Model for Speech Annotation**
+### - AI Model for Speech Annotation
 
-Supervised by **Prof Emily Mower Provost** in **CHAI Lab**.
+> Supervised by **Prof Emily Mower Provost** in **CHAI Lab**.
 
 We using machine learning to analyze speech patterns and help clinicians identify diseases, incorporating both wav2vec2 and ASR+text embeddings. 
 
