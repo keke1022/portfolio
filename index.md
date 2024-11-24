@@ -35,7 +35,7 @@ I am passionate about merging knowledge with  **Machine Learning** and **Operati
 
 ### - Training with Confidence: Catching Silent DL Training Bugs with Automated Proactive Checks
 
-> Supervised by **Prof Ryan** Huang in **OrderLab**.
+> Supervised by **Prof Ryan Huang** and **PHD Yuxuan Jiang** in **OrderLab**.
 
 This is a tool designed to detect silent issues in machine learning training pipelines. By inferring low-level invariants, it helps identify bugs that may otherwise go unnoticed.
 
