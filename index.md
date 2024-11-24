@@ -33,11 +33,11 @@ I am passionate about merging knowledge with  **Machine Learning** and **Operati
 
 ## Selected Projects
 
-### **ML-Daikon**
+### **Training with Confidence: Catching Silent DL Training Bugs with Automated Proactive Checks**
 
 Supervised by **Prof Ryan** Huang in **OrderLab**.
 
-ML-Daikon is a tool designed to detect silent issues in machine learning training pipelines. By inferring low-level invariants, it helps identify bugs that may otherwise go unnoticed.
+This is a tool designed to detect silent issues in machine learning training pipelines. By inferring low-level invariants, it helps identify bugs that may otherwise go unnoticed.
 
 Sample bugs: [PyTorch Issues 84803](https://github.com/pytorch/pytorch/issues/84803). The issue involves silent data corruption when moving tensors between GPUs in PyTorch. The bug manifests when a tensor is transferred between GPUs, causing incorrect values without errors. 
 
