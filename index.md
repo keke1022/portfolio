@@ -4,8 +4,8 @@ layout: default
 
 # Beijie Liu
 
-**B.S.E. in Computer Science | University of Michigan**  
-**B.E. in Electrical and Computer Engineering | Shanghai Jiao Tong University**  
+**B.S.E. in Computer Science** | **University of Michigan**
+**B.E. in Electrical and Computer Engineering** | **Shanghai Jiao Tong University**  
 
 **Email:** [kekeliu [at] umich [dot] edu](mailto:kekeliu@umich.edu)
 
