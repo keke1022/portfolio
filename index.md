@@ -4,79 +4,74 @@ layout: default
 
 # Beijie Liu
 
-**B.S.E. in Computer Science** | **University of Michigan**
+**Ph.D. in Computer Science (Expected)** | **University of Southern California**  
+**B.S.E. in Computer Science** | **University of Michigan**  
 **B.E. in Electrical and Computer Engineering** | **Shanghai Jiao Tong University**  
 
-**Email:** [kekeliu [at] umich [dot] edu](mailto:kekeliu@umich.edu)
-
-**GitHub:** [https://github.com/keke1022](https://github.com/keke1022)
+**Email:** [kekeliu [at] umich [dot] edu](mailto:kekeliu@umich.edu)  
+**GitHub:** [github.com/keke1022](https://github.com/keke1022)  
+**Portfolio:** [keke-hub.com/portfolio](https://keke-hub.com/portfolio)
 
 ---
 
 ## Introduction
 
-I am a senior student at the University of Michigan, pursuing a **B.S.E. in Computer Science**. I am now an Research Assistant in OrderLab and CHAI Lab, and also an IA in Umich EECS 445 (Intro to Machine Learning).
+I’m Beijie Liu, a systems research enthusiast and coffee-dependent humanoid currently finishing my B.S.E. at the University of Michigan. I work as a Research Assistant in **OrderLab** and **CHAI Lab**, and I’ve also survived being an IA for EECS 445 (Intro to Machine Learning).  
+ 
+Before transferring to UMich in 2023, I studied ECE at Shanghai Jiao Tong University. Somehow, this means I now use both C++ *and* React in the same week. Please keep me in your thoughts.
 
-I transferred from Shanghai Jiao Tong University (SJTU) in my third year (2023), where I majored in Electrical and Computer Engineering (ECE).
-
-My academic focus is on **Machine Learning**, **Operating Systems**, and **Compilers**. 
-
-I am planning to take **Distributed Sys**, **Advanced Compilers** later.
-
-I am passionate about merging knowledge with  **Machine Learning** and **Operating Systems**.
+My work focuses on **GPU microarchitecture**, **training pipeline reliability**, and **system-level analysis**—because someone has to care when your model silently fails and no one knows why.
 
 ---
 
 ## Research Interests
 
-- Machine Learning
+- GPU Microarchitecture & Profiling
 - Operating Systems
-- Compilers
+- Deep Learning Infrastructure
 
 ---
 
-## Selected Projects
+## Selected Research Projects
 
-### - Training with Confidence: Catching Silent DL Training Bugs with Automated Proactive Checks
+### 🔍 Training with Confidence: Catching Silent DL Training Bugs with Automated Proactive Checks  
+**OrderLab, University of Michigan**  
+*Advised by Prof. Ryan Huang and PhD candidate Yuxuan Jiang*
 
-> Supervised by **Prof. Ryan Huang** and **PHD Yuxuan Jiang** in **OrderLab**
+- Developed a static analyzer for PyTorch, targeting tightly coupled Python–C/C++ boundaries  
+- Built a dynamic tracing system to recover API signatures and data dependencies  
+- Introduced a “Var Preserve Invariant” pattern to detect silent DL bugs—yes, it caught [real ones](https://github.com/pytorch/pytorch/issues/84803)  
+- Published at **OSDI 2025**  
+- Summary: I make your deep learning training pipeline less of a ticking time bomb.
 
-This is a tool designed to detect silent issues in machine learning training pipelines. By inferring low-level invariants and detecting with high-level pattern recognition, it helps identify bugs that may otherwise go unnoticed.
+---
 
-Sample bugs: [PyTorch Issues 84803](https://github.com/pytorch/pytorch/issues/84803). The issue involves silent data corruption when moving tensors between GPUs in PyTorch. The bug manifests when a tensor is transferred between GPUs, causing incorrect values without errors.
+### 🧠 AI Model for Speech Disfluency Detection  
+**CHAI Lab, University of Michigan**  
+*Advised by Prof. Emily Mower Provost*
 
-A workaround is to transfer the tensor to the CPU before moving it to another GPU. The issue was confirmed across different PyTorch versions.
-
-### - AI Model for Speech Annotation
-
-> Supervised by **Prof. Emily Mower Provost** in **CHAI Lab**
-
-We use machine learning to analyze speech patterns and help clinicians identify diseases, incorporating both wav2vec2 and ASR+text embeddings. 
-
-The project involved data sourcing and cleaning from AphasiaBank, resulting in a higher-quality dataset for model training. We used Webrtcvad to make sentence segmentations more robust. Additionally, a website was created to help clinicians better visualize the results.
-
-The link to the SURE Poster: [Link](https://docs.google.com/presentation/d/18tgPN8d5c8C0TmgP1R8ZP21tfDdbpCq8/edit?usp=sharing&ouid=116168255113253838830&rtpof=true&sd=true)
+- Adapted a dual-path model combining **wav2vec2** (for sound) and **ASR-BERT** (for text)  
+- Deployed results into a live Excel tool for clinicians, because apparently not everyone loves Jupyter Notebooks  
+<!-- - Presented at two SURE showcase events   -->
+<!-- - [SURE Poster Link](https://docs.google.com/presentation/d/18tgPN8d5c8C0TmgP1R8ZP21tfDdbpCq8/edit?usp=sharing&ouid=116168255113253838830&rtpof=true&sd=true) -->
 
 ---
 
 ## Skills & Technologies
 
-- **Programming Languages**: Python, C++, C, OCaml
-- **Operating Systems**: Linux
-- **ML Frameworks**: PyTorch, TensorFlow
+- **Languages**: C++, Python, Bash, Golang, OCaml, JavaScript (yes, I touch React under duress)
+- **Tools**: Git, Docker, Nsight Compute, Google Cloud, VS Code (the usual suspects)
+- **Frameworks**: PyTorch, Hugging Face Transformers
+- **Soft Skills**: Debugging other people's code, staring into the abyss of dynamic traces
 
 ---
 
-## More about Me
+## Fun(?) Facts
 
-My favorite OS is Linux, but I am using Mac.
-
-I am a fan of [fish shell](https://fishshell.com/) and [lazygit](https://github.com/jesseduffield/lazygit) for their user-friendly features.
-
-I enjoy coffee, especially lattes.
-
-I have a strong preference for cleanliness and prefer not to have my Mac screen touched.
-
-I keep a diary to document my everyday thoughts.
+- My favorite OS is Linux, but I type this from a Mac. I contain multitudes.  
+- I like fish. Not the animal—the shell. [fish shell](https://fishshell.com/), to be specific.  
+- I use [lazygit](https://github.com/jesseduffield/lazygit) because typing out `git` commands is for people with more time than I have.   
+- Please don’t touch my laptop screen. That’s how bugs spread.  
+- I keep a diary. It’s where I confess to segfaults I pretend weren’t my fault.
 
 ---
