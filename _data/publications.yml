@@ -1,15 +1,25 @@
 main:
+  - title: "Hollow-LLM Attack: Computationally Trivial Weights in Zero-Knowledge Verification of LLM Inference"
+    authors: Chen Gong, <strong>Beijie Liu</strong>, Mengyuan Li
+    conference_short: S&P
+    conference: IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, 2026.
+    pdf: https://mengyuan-l.github.io/files/hollow-llm.pdf
+    page: https://mengyuan-l.github.io/files/hollow-llm.pdf
+    code: ""
+    bibtex: https://mengyuan-l.github.io/files/hollow-llm.pdf
+    image: ./assets/img/teaser_hollowllm.png
+    notes: Accepted
 
   - title: "Wave: Leveraging Architecture Observation for Privacy-Preserving Model Oversight"
     authors: Haoxuan Xu*, Chen Gong*, <strong>Beijie Liu*</strong>, Haizhong Zheng, Beidi Chen, Mengyuan Li (*Equal contribution)
     conference_short: ASPLOS
     conference: ACM International Conference on Architectural Support for Programming Languages and Operating Systems <strong>(ASPLOS)</strong>, 2026.
-    pdf: ""
-    page: ""
-    code: ""
-    bibtex: ""
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3779212.3790247
+    page: https://dl.acm.org/doi/10.1145/3779212.3790247
+    code: https://github.com/sept-usc/Wave
+    bibtex: https://dl.acm.org/doi/10.1145/3779212.3790247
     image: ./assets/img/teaser_wave.png
-    notes: Accepted (to appear)
+    notes: Accepted
 
   - title: "Training with Confidence: Catching Silent Errors in Deep Learning Training with Automated Proactive Checks"
     authors: Yuxuan Jiang, Ziming Zhou, Boyu Xu, <strong>Beijie Liu</strong>, Runhui Xu, Peng Huang

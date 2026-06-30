@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Science at the University of Southern California in Sept Lab.
-My work focuses on building secure and reliable AI systems, with an emphasis on LLM verification, GPU/CPU co-execution, and system-level reliability. I enjoy working across the boundary of machine learning and systems, especially when it involves understanding how models run on real hardware and how they fail in subtle, hard-to-detect ways.
+I am a second-year Ph.D. student in Computer Science at the [University of Southern California](https://www.cs.usc.edu/), advised by Prof. [Mengyuan Li](https://mengyuan-l.github.io/). I received my Bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-Previously, I worked on training-time bug detection at the University of Michigan in OrderLab and on speech-related ML models in CHAI Lab.
+Previously, I worked as a student researcher at the University of Michigan in [OrderLab](https://orderlab.io/), supervised by [Ryan Huang](https://web.eecs.umich.edu/~ryanph/), and in [CHAI Lab](https://web.eecs.umich.edu/~emilykmp/chai/research.html), supervised by [Emily Mower Provost](https://midas.umich.edu/directory/emily-mower-provost/).
 
-## Research Interests
+My research interests lie broadly in LLM Security and Systems for ML.
 
-- **LLM Security & Verification:** ensuring trustworthy inference, detecting cheating/incorrect execution, and building lightweight verification layers
-- **Systems for ML:** GPU/TEE co-execution, confidential inference, and performance analysis
-- **Reliable Machine Learning:** silent error detection, robust training, and model debugging
-- **General ML:** representation learning, multimodal workloads, and model behavior analysis
+## Education
+
+- Ph.D. in Computer Science, University of Southern California (2025 - present)
+- Bachelor of Engineering in Electrical and Computer Engineering, Shanghai Jiao Tong University (2021 - 2025)
+- Bachelor of Engineering in Computer Science, University of Michigan (2023 - 2025)
 
 ## News
 
