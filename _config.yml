@@ -3,7 +3,7 @@ title: Beijie Liu
 position: Ph.D. Student
 affiliation: University of Southern California
 affiliation_link: https://mengyuan-l.github.io/sept_lab.html
-email: beijie (at)usc.edu
+email: beijieli (at)usc.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -13,10 +13,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
+google_scholar: https://scholar.google.com/citations?user=2qLddokAAAAJ&hl=en
+# cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/keke1022
-# linkedin: https://www.linkedin.com/
+linkedin: https://www.linkedin.com/in/beijie-liu-225a83390/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
