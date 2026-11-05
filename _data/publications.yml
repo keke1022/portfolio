@@ -3,12 +3,14 @@ main:
     authors: <strong>Beijie Liu</strong>, Haoxuan Xu, Jie Peng, Minghao Lin, Chen Gong, Tianlong Chen, Mengyuan Li
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2027.
+    image: ./assets/img/teaser_argus.png
     notes: Accepted
 
   - title: "TPUZZ: Cross-Domain State-Aware Fuzzing of Google Pixel TPU"
     authors: Minghao Lin, Haoxuan Xu, Yuzhou Fang, <strong>Beijie Liu</strong>, Nanzi Yang, Guanxing Wen, Mengyuan Li
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2027.
+    image: ./assets/img/teaser_tpuzz.png
     notes: Accepted
 
   - title: "Hollow-LLM Attack: Computationally Trivial Weights in Zero-Knowledge Verification of LLM Inference"
