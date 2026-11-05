@@ -15,6 +15,7 @@ My research interests lie broadly in LLM Security and Systems for ML.
 - Ph.D. in Computer Science, University of Southern California (2025 - present)
 - B.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University (2021 - 2025)
 - B.E. in Computer Science, University of Michigan (2023 - 2025)
+- High School Diploma, Shanghai High School (2018 - 2021)
 
 ## News
 
