@@ -1,4 +1,16 @@
 main:
+  - title: "ARGUS: Hardware-Rooted Inference-Time Verification at Near-Native Speed"
+    authors: <strong>Beijie Liu</strong>, Haoxuan Xu, Jie Peng, Minghao Lin, Chen Gong, Tianlong Chen, Mengyuan Li
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2027.
+    notes: Accepted
+
+  - title: "TPUZZ: Cross-Domain State-Aware Fuzzing of Google Pixel TPU"
+    authors: Minghao Lin, Haoxuan Xu, Yuzhou Fang, <strong>Beijie Liu</strong>, Nanzi Yang, Guanxing Wen, Mengyuan Li
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2027.
+    notes: Accepted
+
   - title: "Hollow-LLM Attack: Computationally Trivial Weights in Zero-Knowledge Verification of LLM Inference"
     authors: Chen Gong, <strong>Beijie Liu</strong>, Mengyuan Li
     conference_short: S&P
