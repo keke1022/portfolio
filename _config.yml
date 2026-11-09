@@ -23,7 +23,7 @@ linkedin: https://www.linkedin.com/in/beijie-liu-70280b293/
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/me.png
 favicon: ./assets/img/favicon.jpg
-favicon_dark: ./assets/img/favicon-dark.jpg
+favicon_dark: ./assets/img/favicon_dark.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
